@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "WatchHub",
+    "slug": "WatchHub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/image/Default_A_modern_sleek_logo_for_the_watchHub_film_recommendati_3-removebg.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/image/Default_A_modern_sleek_logo_for_the_watchHub_film_recommendati_3-removebg.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#173d39"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ahmetefeersoy.myapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/image/Default_A_modern_sleek_logo_for_the_watchHub_film_recommendati_3-removebg.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ahmetefeersoy.myapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
